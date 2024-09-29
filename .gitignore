@@ -1,0 +1,9 @@
+ECHO is on.
+# Ignore the Python virtual environment folder
+ocr_env/
+
+# Ignore Python compiled bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
